@@ -2,6 +2,12 @@
 Hi there 👋, my name is Ian <br>I am M.E. Student<br><br>I love space, math, etc.<br><br>Skills: Python, C#<br><br>- 🔭 I’m currently working on this page. <br>
 
 
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31xcuoac4bqghqn3v7tebwmffkey)
+<br/>
+---
+
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
