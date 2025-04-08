@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Ian 
 #### I am M.E. Student
-import PokeSprite from 'react-poke-sprites'
 
-<PokeSprite pokemon={'Lugia'} className="pokemon-class" /> // passes this className to the rendered sprite
+<p align="center">
+  <img src="./lugia.gif" alt="Lugia" align="center" width="150">
+</p>
 
 I love space, math, etc.
 
