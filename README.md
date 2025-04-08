@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Ian 
 #### I am M.E. Student
-![I am M.E. Student](pokeball.gif)
+import PokeSprite from 'react-poke-sprites'
+
+<PokeSprite pokemon={'Lugia'} className="pokemon-class" /> // passes this className to the rendered sprite
 
 I love space, math, etc.
 
